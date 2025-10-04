@@ -12,5 +12,5 @@ This repository is a collection of my personal LeetCode problem solutions. It se
 
 ## 📊 Progress
 
-![Problems Solved]([https://img.shields.io/badge/Solved-XXX-orange?style=flat-square](https://leetcode.com/u/Nahid_Mahbub/))
+[![LeetCode](https://img.shields.io/badge/Visit_My-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Nahid_Mahbub/)
 
