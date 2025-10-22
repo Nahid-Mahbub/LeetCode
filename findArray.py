@@ -6,7 +6,8 @@ class Solution:
             print(pref[i-1], pref[i])
         return ans
 
+
 solution = Solution()
-pref = [13]
+pref = [5,2,0,3,1]
 result = solution.findArray(pref)
 print(result)
