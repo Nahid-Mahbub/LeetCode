@@ -9,9 +9,9 @@ class Solution:
                 if(nums[i] == num):
                     counter += 1
             my_dic[num] = counter
-        sorted_my_dic = dict(sorted(my_dic.items(), key = lambda item: item[1], reverse = True))
+        sorted_my_dic = dict(sorted(my_dic.items(), key = lambda item: item[1], reverse = True)[:k])
         print(sorted_my_dic)
-        return list(sorted_my_dic.keys())[:k]
+        return list(sorted_my_dic.keys())
 
 solution = Solution()
 nums = [4,1,-1,2,-1,2,3]
