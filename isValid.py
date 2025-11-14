@@ -1,17 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        if (len(s) %2 != 0):
+        if (len(s) % 2 != 0):
             return False
         stack = []
         # list_s = []
         # for string in s:
         #     list_s.append(string)
 
-        # braket = {
-        #     "(": ")",
-        #     "{": "}",
-        #     "[": "]"
-        # }
+        braket = {
+            ")": "(",
+            "}": "{",
+            "]": "["
+        }
         # for i in range(len(list_s)//2):
         #     print("In first while-----------", list_s[0])
         #     j = len(list_s) - 1
@@ -29,28 +29,34 @@ class Solution:
         # else:
         #     print(list_s)
         #     return False
+        # for val in s:
+        #     if (val == "("):
+        #         stack.append(")")
+        #     elif (val == "{"):
+        #         stack.append("}")
+        #     elif (val == "["):
+        #         stack.append("]")
+        #     elif ((len(stack) == 0) or val == stack[len(stack)-1]):
+        #         if (len(stack) == 0):
+        #             return False
+        #         stack.pop()
+        #     elif (val != stack[len(stack)-1]):
+        #         return False            
+        # return not stack
+            
         for val in s:
-            if (val == "("):
-                stack.append(")")
-            elif (val == "{"):
-                stack.append("}")
-            elif (val == "["):
-                stack.append("]")
-            elif ((len(stack) == 0) or val == stack[len(stack)-1]):
-                if (len(stack) == 0):
+            if(val not in braket):
+                stack.append(val)
+            else:
+                if(stack and braket[val] == stack.pop()):
+                    continue
+                else:
                     return False
-                stack.pop()
-            elif (val != stack[len(stack)-1]):
-                return False
-            
-            
         return not stack
-            
-
 
 
         
 solution = Solution()
-s = "([}}])"
+s = "){"
 result = solution.isValid(s) #"(){}[][({})]"
 print(result)
