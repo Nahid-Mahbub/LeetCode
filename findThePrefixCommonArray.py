@@ -11,10 +11,8 @@ class Solution:
             output.append(common)
             common = 0
         return output
-            
-
 solution = Solution()
-A = [2, 3, 1]
-B = [3, 1, 2]
+A = [2,3,1]
+B = [3,1,2]
 result = solution.findThePrefixCommonArray(A, B)
 print(result)
