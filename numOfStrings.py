@@ -9,7 +9,7 @@ class Solution:
             if(char in subWord):
                 counter += 1
         return counter
-    
+        
 solution = Solution()
 patterns = ["a","abc","bc","d"]
 word = "abc"
