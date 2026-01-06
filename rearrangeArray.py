@@ -12,6 +12,7 @@ class Solution:
             output.append(positive[i])
             output.append(negative[i])
         return output
+
 solution = Solution()
 nums = [3,1,-2,-5,2,-4]
 result = solution.rearrangeArray(nums)
