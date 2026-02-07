@@ -7,6 +7,7 @@ class Solution:
             key = "".join(sorted(word))
             output[key].append(word)
         return list(output.values())
+    
 solution = Solution()
 strs = ["eat","tea","tan","ate","nat","bat"]
 result = solution.groupAnagrams(strs)
