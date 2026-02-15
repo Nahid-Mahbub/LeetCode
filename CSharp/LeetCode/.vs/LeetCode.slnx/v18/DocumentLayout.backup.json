@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66E464-5CA1-42FE-9036-3A159448EB16}|LongestCommonPrefix\\LongestCommonPrefix.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66E464-5CA1-42FE-9036-3A159448EB16}|LongestCommonPrefix\\LongestCommonPrefix.csproj|solutionrelative:longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\LongestCommonPrefix\\Program.cs",
+              "RelativeDocumentMoniker": "LongestCommonPrefix\\Program.cs",
+              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\LongestCommonPrefix\\Program.cs*",
+              "RelativeToolTip": "LongestCommonPrefix\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:44:51.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
