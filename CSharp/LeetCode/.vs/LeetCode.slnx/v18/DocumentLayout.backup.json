@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{017810A6-8BC9-4B7F-99A6-FE3AF76B130D}|IsPalindrome\\IsPalindrome.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\ispalindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017810A6-8BC9-4B7F-99A6-FE3AF76B130D}|IsPalindrome\\IsPalindrome.csproj|solutionrelative:ispalindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0688E65E-FD1C-4B2B-291F-6A1BA8520BA4}|LongestCommonPrefix\\LongestCommonPrefix.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0688E65E-FD1C-4B2B-291F-6A1BA8520BA4}|LongestCommonPrefix\\LongestCommonPrefix.csproj|solutionrelative:longestcommonprefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4425D755-A52E-4A1C-A568-F34810BC8123}|IsValid\\IsValid.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\isvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4425D755-A52E-4A1C-A568-F34810BC8123}|IsValid\\IsValid.csproj|solutionrelative:isvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsPalindrome\\Program.cs",
-              "RelativeDocumentMoniker": "IsPalindrome\\Program.cs",
-              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsPalindrome\\Program.cs",
-              "RelativeToolTip": "IsPalindrome\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsValid\\Program.cs",
+              "RelativeDocumentMoniker": "IsValid\\Program.cs",
+              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsValid\\Program.cs*",
+              "RelativeToolTip": "IsValid\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T00:28:30.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\LongestCommonPrefix\\Program.cs",
-              "RelativeDocumentMoniker": "LongestCommonPrefix\\Program.cs",
-              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\LongestCommonPrefix\\Program.cs",
-              "RelativeToolTip": "LongestCommonPrefix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T05:44:51.253Z",
+              "WhenOpened": "2026-02-17T02:00:52.066Z",
               "EditorCaption": ""
             }
           ]
