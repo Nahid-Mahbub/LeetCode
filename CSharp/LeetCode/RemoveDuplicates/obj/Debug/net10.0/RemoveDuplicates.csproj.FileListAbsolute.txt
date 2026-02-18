@@ -1,0 +1,15 @@
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.AssemblyInfoInputs.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.AssemblyInfo.cs
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.sourcelink.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.exe
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.deps.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.runtimeconfig.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.pdb
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\refint\RemoveDuplicates.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.pdb
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.genruntimeconfig.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveDuplicates\obj\Debug\net10.0\ref\RemoveDuplicates.dll

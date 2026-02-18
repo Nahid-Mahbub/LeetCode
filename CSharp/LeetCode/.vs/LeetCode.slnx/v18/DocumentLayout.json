@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1F14D61-F3AE-4B02-B95B-26684B158862}|RemoveDuplicates\\RemoveDuplicates.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F14D61-F3AE-4B02-B95B-26684B158862}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4425D755-A52E-4A1C-A568-F34810BC8123}|IsValid\\IsValid.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\isvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4425D755-A52E-4A1C-A568-F34810BC8123}|IsValid\\IsValid.csproj|solutionrelative:isvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveDuplicates\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
+              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveDuplicates\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicates\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:45:24.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsValid\\Program.cs",
               "RelativeDocumentMoniker": "IsValid\\Program.cs",
               "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\IsValid\\Program.cs",
               "RelativeToolTip": "IsValid\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T02:00:52.066Z",
               "EditorCaption": ""
