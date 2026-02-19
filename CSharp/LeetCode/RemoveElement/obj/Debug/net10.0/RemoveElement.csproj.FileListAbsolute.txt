@@ -1,0 +1,15 @@
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.AssemblyInfoInputs.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.AssemblyInfo.cs
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.csproj.CoreCompileInputs.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.sourcelink.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\bin\Debug\net10.0\RemoveElement.exe
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\bin\Debug\net10.0\RemoveElement.deps.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\bin\Debug\net10.0\RemoveElement.runtimeconfig.json
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\bin\Debug\net10.0\RemoveElement.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\bin\Debug\net10.0\RemoveElement.pdb
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\refint\RemoveElement.dll
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.pdb
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\RemoveElement.genruntimeconfig.cache
+F:\Programing\LeetCode\CSharp\LeetCode\RemoveElement\obj\Debug\net10.0\ref\RemoveElement.dll

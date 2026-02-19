@@ -3,4 +3,5 @@
   <Project Path="IsValid/IsValid.csproj" Id="4425d755-a52e-4a1c-a568-f34810bc8123" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" />
   <Project Path="RemoveDuplicates/RemoveDuplicates.csproj" Id="c1f14d61-f3ae-4b02-b95b-26684b158862" />
+  <Project Path="RemoveElement/RemoveElement.csproj" Id="b3c9871a-27db-4065-a072-95710fb382ac" />
 </Solution>
