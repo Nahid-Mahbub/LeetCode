@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E52DA157-D3F2-491D-9F4D-2A2167F94F30}|PlusOne\\PlusOne.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\plusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E52DA157-D3F2-491D-9F4D-2A2167F94F30}|PlusOne\\PlusOne.csproj|solutionrelative:plusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C9871A-27DB-4065-A072-95710FB382AC}|RemoveElement\\RemoveElement.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\removeelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C9871A-27DB-4065-A072-95710FB382AC}|RemoveElement\\RemoveElement.csproj|solutionrelative:removeelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F14D61-F3AE-4B02-B95B-26684B158862}|RemoveDuplicates\\RemoveDuplicates.csproj|f:\\programing\\leetcode\\csharp\\leetcode\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F14D61-F3AE-4B02-B95B-26684B158862}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Programing\\LeetCode\\CSharp\\LeetCode\\MySqrt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MySqrt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\PlusOne\\Program.cs",
-              "RelativeDocumentMoniker": "PlusOne\\Program.cs",
-              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\PlusOne\\Program.cs*",
-              "RelativeToolTip": "PlusOne\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\MySqrt\\Program.cs",
+              "RelativeDocumentMoniker": "MySqrt\\Program.cs",
+              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\MySqrt\\Program.cs",
+              "RelativeToolTip": "MySqrt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:50:41.048Z",
+              "WhenOpened": "2026-02-21T07:19:15.629Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveElement\\Program.cs",
-              "RelativeDocumentMoniker": "RemoveElement\\Program.cs",
-              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveElement\\Program.cs",
-              "RelativeToolTip": "RemoveElement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:10:39.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveDuplicates\\Program.cs",
-              "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
-              "ToolTip": "F:\\Programing\\LeetCode\\CSharp\\LeetCode\\RemoveDuplicates\\Program.cs",
-              "RelativeToolTip": "RemoveDuplicates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:45:24.766Z"
             }
           ]
         }
