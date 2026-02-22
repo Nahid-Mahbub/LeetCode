@@ -2,6 +2,7 @@
   <Project Path="IsPalindrome/IsPalindrome.csproj" Id="017810a6-8bc9-4b7f-99a6-fe3af76b130d" />
   <Project Path="IsValid/IsValid.csproj" Id="4425d755-a52e-4a1c-a568-f34810bc8123" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" />
+  <Project Path="MaxDistinct/MaxDistinct.csproj" Id="8a5db1e6-44fd-4888-b813-29d7d3da66e6" />
   <Project Path="PlusOne/PlusOne.csproj" Id="e52da157-d3f2-491d-9f4d-2a2167f94f30" />
   <Project Path="RemoveDuplicates/RemoveDuplicates.csproj" Id="c1f14d61-f3ae-4b02-b95b-26684b158862" />
   <Project Path="RemoveElement/RemoveElement.csproj" Id="b3c9871a-27db-4065-a072-95710fb382ac" />
