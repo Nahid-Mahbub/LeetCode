@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ContainsDuplicate/ContainsDuplicate.csproj" Id="1003402b-3a22-4e60-becf-1924e8b1bb26" />
   <Project Path="IsPalindrome/IsPalindrome.csproj" Id="017810a6-8bc9-4b7f-99a6-fe3af76b130d" />
   <Project Path="IsValid/IsValid.csproj" Id="4425d755-a52e-4a1c-a568-f34810bc8123" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" />
