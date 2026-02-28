@@ -17,6 +17,6 @@ class Program
         Array.Sort(newNums);
         Array.Reverse(newNums);
 
-        return newNums.Length >= 3 ? newNums[2] : newNums[newNums.Length - 1];
+        return newNums.Length >= 3 ? newNums[2] : newNums[0];
     }
 }
