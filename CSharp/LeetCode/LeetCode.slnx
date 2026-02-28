@@ -11,4 +11,5 @@
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/RemoveElement/RemoveElement.csproj" Id="b3c9871a-27db-4065-a072-95710fb382ac" />
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/Search/Search.csproj" Id="fc8758ac-a1a4-4151-9fcf-875bb75ade69" />
   <Project Path="FizzBuzz/FizzBuzz.csproj" Id="e966e065-7794-4814-adbc-7afedc8b5042" />
+  <Project Path="ThirdMax/ThirdMax.csproj" Id="cfeea141-660b-411f-b94d-5120508e0c33" />
 </Solution>
