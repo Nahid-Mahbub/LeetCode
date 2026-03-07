@@ -22,6 +22,8 @@ class Program
                 continue;
         }
 
+
+
         int left = 0;
         int right = newString.Length - 1;
         while (left < right)
