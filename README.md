@@ -1,6 +1,6 @@
 # 🚀 LeetCode Problem Solutions
 
-👋 Hi, I'm **Nahid Mahbub** — a passionate coder and problem solver.  
+👋 Hi, I'm **Nahid Mahbub** a passionate coder and problem solver.  
 
 This repository showcases my **LeetCode journey**, tracking solutions by **difficulty** and **programming language**.  
 
