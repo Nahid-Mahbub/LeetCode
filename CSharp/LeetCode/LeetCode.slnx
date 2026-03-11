@@ -19,4 +19,5 @@
   <Project Path="ShortestToChar/ShortestToChar.csproj" Id="f5760b68-a218-4f63-9d2e-392c619acae6" />
   <Project Path="SumOfUnique/SumOfUnique.csproj" Id="6c169ba6-6f4e-4376-902f-7ca95f121dfa" />
   <Project Path="ThirdMax/ThirdMax.csproj" Id="cfeea141-660b-411f-b94d-5120508e0c33" />
+  <Project Path="TransformArray/TransformArray.csproj" Id="9b2de4ad-fa08-4cd9-958d-66a5e52894f5" />
 </Solution>
