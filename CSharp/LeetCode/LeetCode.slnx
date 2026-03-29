@@ -11,6 +11,7 @@
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/RemoveDuplicates/RemoveDuplicates.csproj" Id="c1f14d61-f3ae-4b02-b95b-26684b158862" />
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/RemoveElement/RemoveElement.csproj" Id="b3c9871a-27db-4065-a072-95710fb382ac" />
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/Search/Search.csproj" Id="fc8758ac-a1a4-4151-9fcf-875bb75ade69" />
+  <Project Path="findGCD/findGCD.csproj" Id="e209dab4-e34b-4b6a-bc75-656f35f331ac" />
   <Project Path="FindWords/FindWords.csproj" Id="a1424808-fba5-400a-a604-ad9b6401b185" />
   <Project Path="FizzBuzz/FizzBuzz.csproj" Id="e966e065-7794-4814-adbc-7afedc8b5042" />
   <Project Path="Intersection/Intersection.csproj" Id="725e3e36-1784-47b7-8fc9-9a9c31913ce8" />
