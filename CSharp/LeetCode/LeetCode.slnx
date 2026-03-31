@@ -18,6 +18,7 @@
   <Project Path="IsPalindrome125/IsPalindrome125.csproj" Id="fe182cb1-4ce5-404c-9ad3-02ae16a3e16d" />
   <Project Path="MoveZeroes/MoveZeroes.csproj" Id="d7f2bcb0-453a-43b5-ae89-c1d5c0e7fefe" />
   <Project Path="NextGreatestLetter/NextGreatestLetter.csproj" Id="45bdad5c-8ede-4e4f-a593-553930e1f8a4" />
+  <Project Path="NumWaterBottles/NumWaterBottles.csproj" Id="3706ad63-b9fc-445d-a287-fad2595ca0cb" />
   <Project Path="ReverseStr/ReverseStr.csproj" Id="ecef7daa-d0c6-43a5-90a7-28be7870718d" />
   <Project Path="ShortestToChar/ShortestToChar.csproj" Id="f5760b68-a218-4f63-9d2e-392c619acae6" />
   <Project Path="SumOfUnique/SumOfUnique.csproj" Id="6c169ba6-6f4e-4376-902f-7ca95f121dfa" />
