@@ -17,6 +17,7 @@
   <Project Path="FizzBuzz/FizzBuzz.csproj" Id="e966e065-7794-4814-adbc-7afedc8b5042" />
   <Project Path="Intersection/Intersection.csproj" Id="725e3e36-1784-47b7-8fc9-9a9c31913ce8" />
   <Project Path="IsPalindrome125/IsPalindrome125.csproj" Id="fe182cb1-4ce5-404c-9ad3-02ae16a3e16d" />
+  <Project Path="MinimizedStringLength/MinimizedStringLength.csproj" Id="cd6c8314-a039-43c6-855b-6fcf0582e460" />
   <Project Path="MoveZeroes/MoveZeroes.csproj" Id="d7f2bcb0-453a-43b5-ae89-c1d5c0e7fefe" />
   <Project Path="NextGreatestLetter/NextGreatestLetter.csproj" Id="45bdad5c-8ede-4e4f-a593-553930e1f8a4" />
   <Project Path="NumWaterBottles/NumWaterBottles.csproj" Id="3706ad63-b9fc-445d-a287-fad2595ca0cb" />
