@@ -2,6 +2,7 @@
   <Project Path="AddToArrayForm/AddToArrayForm.csproj" Id="7904a89c-96a3-4c0d-881e-20e68845eb24" />
   <Project Path="ArraySign/ArraySign.csproj" Id="65ea00e4-7e36-496e-9398-8731613d4fa3" />
   <Project Path="CanAliceWin/CanAliceWin.csproj" Id="0aa66912-0fa1-4565-80b2-97bc84c9eadd" />
+  <Project Path="CountKeyChanges/CountKeyChanges.csproj" Id="c0c18995-9528-4e31-a54b-d0d6ac50fb97" />
   <Project Path="CountSymmetricIntegers/CountSymmetricIntegers.csproj" Id="ce2718b7-74ee-49b3-aca6-2b99b23c6bcc" />
   <Project Path="ExecuteInstructions/ExecuteInstructions.csproj" Id="aca85802-7af0-4fd8-9dbb-22546f9f40c8" />
   <Project Path="F:/Programing/LeetCode/CSharp/LeetCode/AddDigits/AddDigits.csproj" Id="2ecd2d91-11ca-42e2-b2cd-b5707cfb6893" />
