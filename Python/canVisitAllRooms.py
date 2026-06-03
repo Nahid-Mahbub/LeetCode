@@ -1,23 +1,16 @@
 class Solution:
     def canVisitAllRooms(self, rooms: list[list[int]]) -> bool:
-        
-        key = set()
-        for i in range(len(rooms[0])):
-            key.add(rooms[0][i])
-        
-        for i in range(1, len(rooms)):
 
-            if i not in key:
-                if(rooms[i] == []):
-                    continue
-                return False
+        keys = set()
+        def dfs(room):
+            for key in rooms[room]:
+                if key not in keys:
+                    keys.add(key)
+                    dfs(key) # Recursive call to visit the next room
+        keys.add(0)
+        dfs(0)
+        return len(keys) == len(rooms)
 
-            for j in range(len(rooms[i])):
-                key.add(rooms[i][j])
-            
-            print(key)
-            
-        return True
 
 solution = Solution()
 rooms = [[1,3],[1,4],[2,3,4,1],[],[4,3,2]]
