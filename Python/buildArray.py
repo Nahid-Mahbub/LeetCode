@@ -9,6 +9,7 @@ class Solution:
             if i == target[-1]:
                 break
         return result
+    
 solution = Solution()
 target = [1,3]
 n = 3
