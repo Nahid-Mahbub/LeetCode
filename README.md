@@ -1,14 +1,21 @@
 # 🚀 LeetCode Problem Solutions
 
-👋 Hi, I'm **Nahid Mahbub** a passionate coder and problem solver.  
+👋 Hi, I'm **Nahid Mahbub**, a programmer and problem solver.
 
-This repository showcases my **LeetCode journey**, tracking solutions by **difficulty** and **programming language**.  
+This repository contains my **LeetCode solutions**, organized by **difficulty** and **programming language**.
 
-Currently focusing on **Python 🐍**, with plans to expand into **C# 💻** in the near future.
+Currently focusing on **Python 🐍**, with plans to expand into **C# 💻**.
 
-Let's solve, learn, and level up! ⚡️
+**Learn • Solve • Improve** ⚡
 
+---
 
-## 📊 Overall Progress
+## 📊 Progress
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Nahid_Mahbub?theme=dark&font=baloo&extension=null)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nahid_Mahbub?theme=dark&font=Baloo" alt="LeetCode Stats" />
+</p>
+
+---
+
+⭐ Thanks for visiting!
