@@ -5,6 +5,8 @@ class Solution:
         for i in range(len(str_n)):
             if str_n[i] == str_x and i != 0:
                 return True
+            elif str_n[i] == str_x and i == 0:
+                return False
         return False
 solution = Solution()
 n = 202
