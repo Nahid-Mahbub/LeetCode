@@ -56,7 +56,27 @@ def print_tree(root):
         
 class Solution:
     def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
-        return self.dfs(root, 0)[1]
+        queue = deque([root])
+
+        last_level = []
+
+        while queue:
+            level = []
+
+            for _ in range(len(queue)):
+                node = queue.popleft()
+
+                level.append(node.val)
+
+                if node.left:
+                    queue.append(node.left)
+
+                if node.right:
+                    queue.append(node.right)
+
+            last_level = level
+
+        return sum(last_level)
 
 values = [ 1, 2, 3, 4, 5, None, 6, 7, None, None, None, None, 8 ]
 
@@ -66,3 +86,4 @@ root = build_tree(values)
 # See the tree 
 print("Tree:") 
 print_tree(root)
+print(solution := Solution().deepestLeavesSum(root))
